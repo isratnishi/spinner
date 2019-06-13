@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Spinner</string>
+    <string name="color_prompt">Choose a color</string>
+    <string name="submit">Submit</string>
+    <string name="hello_world">Hello World!</string>
+    <string-array name="color_arrays">
+        <item>RED</item>
+        <item>Orange </item>
+        <item>Yellow </item>
+        <item>Green </item>
+        <item>Cyan </item>
+        <item>Blue </item>
+        <item>Purple </item>
+    </string-array>
+
+    <string-array name="RED">
+        <item>firebrick</item>
+        <item>crimson </item>
+        <item>indianred </item>
+        <item>lightcoral </item>
+        <item>darksalmon </item>
+    </string-array>
+    <string-array name="Orange">
+        <item>coral</item>
+        <item>tomato </item>
+        <item>orangered </item>
+        <item>gold </item>
+        <item>orange </item>
+        <item>darkorange </item>
+         </string-array>
+    <string-array name="Yellow">
+        <item>lightyellow</item>
+        <item>lemonchiffon </item>
+        <item>papayawhip </item>
+        <item>peachpuff </item>
+        <item>darkkhaki </item>
+         </string-array>
+    <string-array name="Green">
+        <item>lawngreen</item>
+        <item>limegreen </item>
+        <item>lime </item>
+        <item>forestgreen </item>
+        <item>darkgreen </item>
+        <item>springgreen </item>
+        <item>lightgreen </item>
+    </string-array>
+    <string-array name="Cyan">
+        <item>teal</item>
+        <item>lightseagreen </item>
+        <item>mediumaquamarine </item>
+        <item>aquamarine </item>
+        <item>lightcyan </item>
+        <item>darkturquoise </item>
+
+    </string-array>
+    <string-array name="Blue">
+        <item>darkblue</item>
+        <item>mediumblue </item>
+        <item>steelblue </item>
+        <item>cornflowerblue </item>
+        <item>dodgerblue </item>
+        <item>skyblue </item>
+        <item>lightblue </item>
+    </string-array>
+    <string-array name="Purple">
+        <item>plum</item>
+        <item>orchid </item>
+        <item>fuchsia </item>
+        <item>magenta </item>
+
+    </string-array>
+</resources>
